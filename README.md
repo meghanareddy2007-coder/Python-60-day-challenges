@@ -5,12 +5,13 @@ This repository contains my solutions for a 60-day Python practice challenge, wh
 ## 📅 Progress
 
 | Day | Problem Title                         | Status  |
-|-----|---------------------------------------|-------- |
+|-----|---------------------------------------|---------|
 | 1   | User Profile Validation System        | ✅ Done |
 | 2   | Smart ID & Credential Validator       | ✅ Done |
 | 3   | Student Performance Analyzer          | ✅ Done |
 | 4   | Cyber Activity Risk Analyzer          | ✅ Done |
 | 5   | Emergency Resource Dispatch Analyzer  | ✅ Done |
+| 6   | Smart Transaction Risk Detector       | ✅ Done |
 
 ## 🎯 Purpose of This Challenge
 - Improve problem-solving skills.
@@ -53,6 +54,15 @@ This repository contains my solutions for a 60-day Python practice challenge, wh
 - Processes each request with for-loops.
 - Counts valid and invalid requests.
 - Applies personalized filtering using PLI (L % 3).
+
+### Day 6 – Smart Transaction Risk Detector
+- Stores transaction amounts in a list.
+- Classifies transactions into Normal, Large, High Risk, and Invalid.
+- Uses dictionary to organize categorized data.
+- Applies list comprehension to filter valid transactions.
+- Calculates total spending and transaction count.
+- Implements risk scoring based on multiple conditions.
+- Determines final risk as Low, Moderate, or High.
 
 ## 🚀 Goal
 Complete 60 days of consistent Python coding practice to build strong problem-solving and programming skills.
