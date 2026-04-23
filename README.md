@@ -1,6 +1,3 @@
-# Python-60dayChallenge
-
-This repository contains my solutions for a 60-day Python practice challenge, where I work on one programming problem every day to enhance my coding and logical thinking skills.
 
 ## 📅 Progress
 
@@ -12,6 +9,7 @@ This repository contains my solutions for a 60-day Python practice challenge, wh
 | 4   | Cyber Activity Risk Analyzer          | ✅ Done |
 | 5   | Emergency Resource Dispatch Analyzer  | ✅ Done |
 | 6   | Smart Transaction Risk Detector       | ✅ Done |
+| 6.1 | Multi-Dimensional Academic Intelligence System | ✅ Done |
 
 ## 🎯 Purpose of This Challenge
 - Improve problem-solving skills.
@@ -62,7 +60,14 @@ This repository contains my solutions for a 60-day Python practice challenge, wh
 - Applies list comprehension to filter valid transactions.
 - Calculates total spending and transaction count.
 - Implements risk scoring based on multiple conditions.
-- Determines final risk as Low, Moderate, or High.
 
-## 🚀 Goal
-Complete 60 days of consistent Python coding practice to build strong problem-solving and programming skills.
+### Day 6.1 – Multi-Dimensional Academic Intelligence System
+- Generates student performance data using random values.
+- Processes marks, attendance, and assignment scores using loops.
+- Classifies students into At Risk, Average, Good, and Top Performer.
+- Uses Pandas DataFrame for structured data handling.
+- Applies NumPy for statistical analysis (mean, median, std, correlation).
+- Implements a custom performance index using mathematical formula.
+- Uses tuple to store statistical summary values.
+- Detects patterns to determine overall academic system insight.
+
