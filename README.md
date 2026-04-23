@@ -61,7 +61,7 @@
 - Calculates total spending and transaction count.
 - Implements risk scoring based on multiple conditions.
 
-### Day 6.1 – Multi-Dimensional Academic Intelligence System
+### Day 8 – Multi-Dimensional Academic Intelligence System
 - Generates student performance data using random values.
 - Processes marks, attendance, and assignment scores using loops.
 - Classifies students into At Risk, Average, Good, and Top Performer.
