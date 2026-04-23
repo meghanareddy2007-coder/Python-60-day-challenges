@@ -9,7 +9,7 @@
 | 4   | Cyber Activity Risk Analyzer          | ✅ Done |
 | 5   | Emergency Resource Dispatch Analyzer  | ✅ Done |
 | 6   | Smart Transaction Risk Detector       | ✅ Done |
-| 6.1 | Multi-Dimensional Academic Intelligence System | ✅ Done |
+| 8 | Multi-Dimensional Academic Intelligence System | ✅ Done |
 
 ## 🎯 Purpose of This Challenge
 - Improve problem-solving skills.
