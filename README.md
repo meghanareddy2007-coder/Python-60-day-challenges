@@ -1,4 +1,3 @@
-
 ## 📅 Progress
 
 | Day | Problem Title                         | Status  |
@@ -9,7 +8,8 @@
 | 4   | Cyber Activity Risk Analyzer          | ✅ Done |
 | 5   | Emergency Resource Dispatch Analyzer  | ✅ Done |
 | 6   | Smart Transaction Risk Detector       | ✅ Done |
-| 8 | Multi-Dimensional Academic Intelligence System | ✅ Done |
+| 8   | Multi-Dimensional Academic Intelligence System | ✅ Done |
+| 9   | Smart Inventory Mutation Tracker      | ✅ Done |
 
 ## 🎯 Purpose of This Challenge
 - Improve problem-solving skills.
@@ -71,3 +71,12 @@
 - Uses tuple to store statistical summary values.
 - Detects patterns to determine overall academic system insight.
 
+### Day 9 – Smart Inventory Mutation Tracker
+- Stores inventory data using nested lists and dictionaries.
+- Demonstrates shallow copy and deep copy concepts.
+- Applies price discount and stock modification using functions.
+- Uses roll number to dynamically select which item to modify.
+- Compares original and modified data using loops and conditions.
+- Uses tuple to summarize changed and unchanged items.
+- Highlights how shallow copy affects original data due to shared references.
+- Shows how deep copy keeps data independent and prevents unintended changes.
