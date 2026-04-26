@@ -10,6 +10,7 @@
 | 6   | Smart Transaction Risk Detector       | ✅ Done |
 | 8   | Multi-Dimensional Academic Intelligence System | ✅ Done |
 | 9   | Smart Inventory Mutation Tracker      | ✅ Done |
+| 10  | Academic Data Drift & Copy Behavior Analyzer | ✅ Done |
 
 ## 🎯 Purpose of This Challenge
 - Improve problem-solving skills.
@@ -80,3 +81,15 @@
 - Uses tuple to summarize changed and unchanged items.
 - Highlights how shallow copy affects original data due to shared references.
 - Shows how deep copy keeps data independent and prevents unintended changes.
+
+### Day 10 – Academic Data Drift & Copy Behavior Analyzer
+- Generates student academic data using random values in a nested dictionary structure.
+- Demonstrates shallow copy and deep copy behavior on complex datasets.
+- Applies roll number–based logic (roll % 3) to selectively modify records.
+- Performs mathematical transformations on marks, attendance, and nested scores.
+- Uses NumPy to calculate mean, median, and standard deviation.
+- Computes data drift by comparing original and modified datasets.
+- Applies min-max normalization to scale marks.
+- Uses Pandas DataFrame for structured data representation.
+- Detects unintended modifications caused by shallow copy.
+- Classifies system behavior as Stable Data, Minor Drift, Critical Drift, or Copy Failure Detected.
